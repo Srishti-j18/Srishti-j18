@@ -16,7 +16,7 @@
 </p>
 
 - 🌱 I’m currently learning **Typescript** 
-- 👯 I’m looking to collaborate on**exciting project** 
+- 👯 I’m looking to collaborate on **exciting project** 
 - 💬 Ask me about **Frontend Developement** 
 - 📫 How to reach me **Srishti33164jaiswal@gmail.com**
 
