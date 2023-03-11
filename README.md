@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 <h3 align="center">
-   <div align="center">I'm Srishti Jaiswal, a student, and developer from India. 🚀</div>
+   <div align="center">A student and developer from India. 🚀</div>
 </h3>
 <img
   align="right"
