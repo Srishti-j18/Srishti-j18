@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srishti Jaiswal</h1>
 <h3 align="center">
-  Web Development and Competitive Programming Enthusiast from India
+  ### <div align="center">I'm Srishti Jaiswal, a student, and developer from India. 🚀</div>
 </h3>
 <img
   align="right"
@@ -15,9 +15,8 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Typescript** 
+- 💻 I am a Mathematics and Computing undergraduate student at the Indian Institute of Technology BHU (Varanasi) pursuing a Integrated dual degree (Bachelor of Technology and Master of Technology) in my second year.
 - 👯 I’m looking to collaborate on **exciting project** 
-- 💬 Ask me about **Frontend Developement** 
 - 📫 How to reach me **Srishti33164jaiswal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
