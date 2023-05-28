@@ -153,13 +153,13 @@
   />
 </p>
 
-<!-- <p>
+<p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=srishti-j18&show_icons=true&locale=en"
     alt="srishti-j18"
   />
-</p> -->
+</p>
 
 <p>
   <img
