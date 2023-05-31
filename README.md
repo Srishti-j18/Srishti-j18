@@ -144,14 +144,23 @@
     />
   </a>
 </p>
-
-<!-- <p>
+<br>
+<p>
   <img
-    align="left"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/top-langs?username=srishti-j18&show_icons=true&locale=en&layout=compact"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Srishti-j18&&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="srishti-j18"
   />
-</p> -->
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Srishti-j18&&theme=dark"
+    alt="srishti-j18"
+  />
+</p>
+<br>
 
 <!-- <p>
   &nbsp;<img
@@ -161,10 +170,4 @@
   />
 </p> -->
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=srishti-j18&"
-    alt="srishti-j18"
-  />
-</p>
+
