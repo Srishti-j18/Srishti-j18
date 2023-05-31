@@ -156,7 +156,7 @@
 <!-- <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=srishti-j18&show_icons=true&locale=en"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Srishti-j18&&show_icons=true&theme=dark"
     alt="srishti-j18"
   />
 </p> -->
