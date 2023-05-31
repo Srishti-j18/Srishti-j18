@@ -145,13 +145,13 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/top-langs?username=srishti-j18&show_icons=true&locale=en&layout=compact"
     alt="srishti-j18"
   />
-</p>
+</p> -->
 
 <p>
   &nbsp;<img
