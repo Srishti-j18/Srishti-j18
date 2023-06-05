@@ -145,14 +145,14 @@
   </a>
 </p>
 <br>
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Srishti-j18&&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="srishti-j18"
   />
 </p>
-
+ -->
 <p>
   <img
     align="center"
