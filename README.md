@@ -33,8 +33,8 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!--<h3 align="left">Languages and Tools:</h3>
+<!-- <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -110,8 +110,8 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
@@ -126,8 +126,8 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
@@ -143,16 +143,16 @@
       height="40"
     />
   </a>
-</p>
-<br>
-<!-- <p>
-  <img
+</p>-->
+<br> 
+
+<!--  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Srishti-j18&&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="srishti-j18"
   />
-</p>
- -->
+</p>-->
+
 <p>
   <img
     align="center"
@@ -160,7 +160,7 @@
     alt="srishti-j18"
   />
 </p>
-<br>
+<be>
 
 <!-- <p>
   &nbsp;<img
