@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/srishti-jaiswal18/"
+    href="https//www.linkedin.com/in/srishti-jaiswal18/"
     target="blank"
     ><img
       align="center"
