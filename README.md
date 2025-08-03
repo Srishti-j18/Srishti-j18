@@ -15,7 +15,7 @@
   />
 </p>
 
-- 💻 I am a **Mathematics and Computing** pre-final student at the **Indian Institute of Technology BHU (Varanasi)** pursuing a Integrated dual degree (**Bachelor of Technology and Master of Technology**).
+- 💻 I am a **Mathematics and Computing** final year student at the **Indian Institute of Technology BHU (Varanasi)** pursuing a Integrated dual degree (**Bachelor of Technology and Master of Technology**).
 - 👯 I’m looking to collaborate on **exciting project** 
 - 📫 How to reach me **Srishti33164jaiswal@gmail.com**
 
